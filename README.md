@@ -40,3 +40,9 @@ ___
 Si se quiere editar la presentacion, esta en canvas:
 
 https://www.canva.com/design/DAF9Qhq-KeY/U3Un2fNOQu1V8trkCmghmw/edit?utm_content=DAF9Qhq-KeY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+___
+
+Aca dejo el colab, no era la idea porque no esta ordenado para el uso de todos y quizas no es entendible:
+
+https://colab.research.google.com/drive/1iVpHvBOQHZNjWLuKuQTXbLLSp0kLc3sl?usp=sharing
