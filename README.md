@@ -1,4 +1,5 @@
 _**Monitoreo:**_
+(Hay que modificar los archivos que paso aca abajo, para que anden en la nueva infraestructura, paths... etc)
 
 _**Son 5 los archivos, se ubican en la carpeta principal (en donde esta config.json):**_
 - **delete_locks.py**: Borra todos los locks activos (si hay señales de compra activas, las comprara inmediatamente).
