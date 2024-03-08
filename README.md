@@ -18,6 +18,7 @@ Quizas tambien hay que tener en cuenta la salida de la crypto ya que si baja len
 
 
 /////////////////////////////////////////////////////////////////////////////////
+
 **Datasets**:
 Se dejaron los datasets que tenemos hasta ahora:
 Cryptos10Factor2(Primer-dataset):
