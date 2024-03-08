@@ -11,6 +11,7 @@ _**Obs:**_
 - buy_pairs se relaciona con active_pairsName, ya si se abre una cuenta nueva y se ejecuta buy_pairs,
 se fija primero que pares esta activo de la cuenta de referencia con active_pairsName y los compra.
 
+___
 _**Futuro config:**_
 Cree una carpeta para dejar el futuro config, como deberia de ser con las pocas modificaciones que se le hicieron (max_open_trades en 7, stake_amount (para que compre solo si tiene USDT > 100),el whitelist de las 7, force_entry en true)
 *obs:*
