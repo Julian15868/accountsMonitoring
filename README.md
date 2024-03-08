@@ -10,3 +10,6 @@
 - active_pairsNAME.py tiene que estar en la/s cuenta de referencia, esta funcion es para ver los pares activos.
 - buy_pairs se relaciona con active_pairsName, ya si se abre una cuenta nueva y se ejecuta buy_pairs,
 se fija primero que pares esta activo de la cuenta de referencia con active_pairsName y los compra.
+
+**Futuro config:**
+- Cree una carpeta para dejar el futuro config, como deberia de ser con las pocas modificaciones que se le hicieron
