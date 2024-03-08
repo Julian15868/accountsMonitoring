@@ -1,4 +1,5 @@
 _**Monitoreo:**_
+
 _**Son 5 los archivos, se ubican en la carpeta principal (en donde esta config.json):**_
 - **delete_locks.py**: Borra todos los locks activos (si hay señales de compra activas, las comprara inmediatamente).
 - **buy_pairs.py**: Compra las cryptos de la cuenta de referencia.
