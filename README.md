@@ -17,7 +17,7 @@ Cree una carpeta para dejar el futuro config, como deberia de ser con las pocas 
 Quizas tambien hay que tener en cuenta la salida de la crypto ya que si baja lentamente (es decir que no lo capte el atr) a una cantidad que no se puede vender, se va a poder solo resolver eliminando el trade. De todas formas con el config asi seria muy poco probable que sucediera dado los 100 usdt como tope inferior y la volatilidad de las cryptos, pero es para tener en cuenta.
 
 
-/////////////////////////////////////////////////////////////////////////////////
+___
 
 **Datasets**:
 Se dejaron los datasets que tenemos hasta ahora:
