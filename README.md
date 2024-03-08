@@ -36,4 +36,5 @@ Cryptos6Factor2:
 ___
 
 Si se quiere editar la presentacion, esta en canvas:
+
 https://www.canva.com/design/DAF9Qhq-KeY/U3Un2fNOQu1V8trkCmghmw/edit?utm_content=DAF9Qhq-KeY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
